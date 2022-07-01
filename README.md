@@ -17,6 +17,7 @@ Brush up on basic python skills
 
 ## Special Mention
 I want to take a second and recognize this amazing human being. His YouTube tutorials are fantastic. They are simple to follow and you learn a lot from them. Go check them out and give him some love!
+
 @Manish Verma 
 
-YouTube channel [YouTube](https://www.youtube.com/c/SoftwareTestingMentor)
+Manish Verma [YouTube Channel](https://www.youtube.com/c/SoftwareTestingMentor)
