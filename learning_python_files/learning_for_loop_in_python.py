@@ -2,6 +2,9 @@
 #used to iterate over the sequence like list, string, dic, set or tuple
 #Less like the for loop in other programming languanges
 
+from itertools import count
+
+
 city = ["Delhi","Mealbourne","Lucknow","Sydney"] #same for string tuples adn sets
 
 for c in city:
@@ -20,3 +23,12 @@ print(my_dic)
 #for loop in dic 
 for country, city in my_dic.items(): #Make sure you use the .item() method for dictionary or else it will not allow you to loop through
     print(country, city)
+
+#nested loops
+my_dic = dict(cities)
+print(my_dic)
+#for loop in dic 
+for country, city in my_dic.items(): #Make sure you use the .item() method for dictionary or else it will not allow you to loop through
+    print(country, city)
+    for s in country: #nested for loop to print character
+        print(s)# Prints the country and the city and than each character of the country 
