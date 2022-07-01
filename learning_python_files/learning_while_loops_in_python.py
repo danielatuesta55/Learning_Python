@@ -28,6 +28,7 @@ while x < len(cities):
     x = x + 1 
 
 #While loops in dictionaries
+#You cant do while loops in dic here is documentation for loops : https://www.w3schools.com/python/python_dictionaries_loop.asp
 demo_dic1 = {"name":"Jorge", "lastname": "Atuesta", "middelname": "Daniel"}
 
 x = 0 
