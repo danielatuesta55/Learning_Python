@@ -42,3 +42,67 @@ x = 0
 while x < len(countries):
     print(countries[x])
     x = x + 1
+#______________________________________________________________________
+#Break and continue learning python 
+
+#Break: Breaks our form the nearest enclosing loop
+#Continue: Go to the start of nearest encolison loop 
+
+#while <expression>
+#   <statment(s)> >
+#   break 
+#   <statment(s)>
+#   continue
+#   <statment(s)>
+#<statement(s)>
+
+#else clause:
+#while<expression>:
+#   <statment(s)>
+#else:
+#   <statment(s)>
+
+x = 0
+while x <= 1:
+    print(x)
+    x = x + 1
+    break
+    print("inside while loop")
+print("out side while loop")
+
+x = 0
+while x <= 10:
+    print(x)
+    x = x + 1
+    #continue
+    print("inside while loop")
+print("out side while loop")
+
+x = 0
+while x <= 10:
+    print(x)
+    x = x + 1
+    continue
+    print("inside while loop")
+print("out side while loop")
+
+#else clause
+
+x = 0
+while x <= 10:
+    print(x)
+    x = x + 1
+    continue
+    print("inside while loop")
+else:
+    print("out side while loop")
+
+x = 0
+while x <= 10:
+    print(x)
+    x = x + 1
+    if x == 5:
+        break #This will break and no allow anything else to be printed unlike up top the else clause is ommited and not printe
+    print("inside while loop")
+else:
+    print("out side while loop")
