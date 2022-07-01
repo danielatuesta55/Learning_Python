@@ -39,3 +39,4 @@ print(joined_tuple)
 print(type(joined_tuple))
 #print cerain values from specific index 
 print(joined_tuple[0:3])
+
