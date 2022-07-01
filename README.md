@@ -6,7 +6,7 @@ I have been getting back to coding and I wanted to touch up on basic concepts of
 ![get_back_on_it](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
 
 ## Inside this repository
-1. **Imaged** - Inside this folder you will find the images for the instructions provided by the institution. *You can skip this folder if you want*.
+1. **Images** - Inside this folder you will find the images for the instructions provided by the institution. *You can skip this folder if you want*.
 2. **learning_python_files** - Inside this folder you will find all the python files that I have coded with basic python concepts
 
 ## Projects Aim
