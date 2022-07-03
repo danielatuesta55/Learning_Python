@@ -16,8 +16,9 @@ Brush up on basic python skills
 ![python](https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif)
 
 ## Special Mention
-I want to take a second and recognize this amazing human being. His YouTube tutorials are fantastic. They are simple to follow and you learn a lot from them. Go check them out and give him some love!
+I want to take a second and recognize this amazing human being @Manish Verma . His YouTube tutorials are fantastic. They are simple to follow and you learn a lot from them. Go check them out and give him some love!
 
-@Manish Verma 
 
-Manish Verma [YouTube Channel](https://www.youtube.com/c/SoftwareTestingMentor)
+
+
+[![profile](https://res.cloudinary.com/marcomontalbano/image/upload/v1656809855/video_to_markdown/images/youtube--zZyggRM-WOI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zZyggRM-WOI "profile")
